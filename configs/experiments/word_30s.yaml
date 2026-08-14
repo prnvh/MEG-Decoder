@@ -1,0 +1,6 @@
+# Experiment: guess words from 30-second MEG windows.
+# Longer windows give the model more context about what was heard.
+
+task: word
+window_seconds: 30
+# Point this at a model config and data config when training for real.

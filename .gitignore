@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project outputs and large data (keep folder placeholders via .gitkeep)
+outputs/**
+!outputs/**/.gitkeep
+data/raw/**
+!data/raw/.gitkeep
+data/processed/**
+!data/processed/.gitkeep
+data/indices/**
+!data/indices/.gitkeep
+data/splits/**
+!data/splits/.gitkeep

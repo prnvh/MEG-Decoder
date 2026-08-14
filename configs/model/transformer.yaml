@@ -1,0 +1,5 @@
+# Settings for the plain Transformer baseline model.
+# Used so we can compare BDH against a standard approach.
+
+model: transformer
+# Fill in layer sizes and other model options later.

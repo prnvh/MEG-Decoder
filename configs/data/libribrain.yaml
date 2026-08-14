@@ -1,0 +1,6 @@
+# Settings for the LibriBrain MEG dataset.
+# Things like sample rate, channel list, and where files live on disk.
+
+dataset: libribrain
+sample_rate_hz: 250
+# Fill in real paths and options as the data pipeline is built.
