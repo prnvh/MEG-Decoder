@@ -1,6 +1,0 @@
-# Experiment: capture meaning (not exact words) from 30-second MEG windows.
-# Checks whether the model learns "about the same idea" rather than the exact label.
-
-task: semantic
-window_seconds: 30
-# Point this at a model config and data config when training for real.

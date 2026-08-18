@@ -1,7 +1,0 @@
-# Official experiment log.
-# One row per planned or finished run so results stay organized and comparable.
-#
-# experiment_id,task,window_seconds,model,status,notes
-phoneme_2s_bdh_tiny,phoneme,2,bdh_tiny,planned,scaffold row
-word_30s_bdh_small,word,30,bdh_small,planned,scaffold row
-semantic_30s_transformer,semantic,30,transformer,planned,scaffold row

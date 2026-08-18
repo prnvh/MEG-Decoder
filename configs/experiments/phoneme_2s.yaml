@@ -1,6 +1,0 @@
-# Experiment: guess phonemes from short 2-second MEG windows.
-# Phonemes are the small sound units of speech (like the "p" in "pat").
-
-task: phoneme
-window_seconds: 2
-# Point this at a model config and data config when training for real.

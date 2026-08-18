@@ -1,6 +1,3 @@
-# Project setup file.
-# Lists the package name, version, and what libraries this project needs to run.
-
 [project]
 name = "meg-bdh"
 version = "0.1.0"
@@ -12,17 +9,8 @@ dependencies = [
     "torch",
     "numpy",
     "pyyaml",
-    "tqdm",
-]
-
-[project.optional-dependencies]
-dev = [
-    "pytest",
 ]
 
 [build-system]
 requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
-
-[tool.setuptools.packages.find]
-where = ["src"]

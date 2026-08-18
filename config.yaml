@@ -1,0 +1,9 @@
+# One settings file for the first working run.
+
+task: phoneme
+window_seconds: 2
+batch_size: 8
+learning_rate: 0.001
+seed: 0
+data_dir: data
+output_dir: outputs

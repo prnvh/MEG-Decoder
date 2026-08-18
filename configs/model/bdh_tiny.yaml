@@ -1,6 +1,0 @@
-# Settings for the smallest BDH model.
-# Use this for quick tests that should finish fast and use little memory.
-
-model: bdh
-size: tiny
-# Fill in layer sizes and other model options later.

@@ -1,6 +1,0 @@
-# Settings for the small BDH model.
-# A step up from tiny — still light, but closer to a real experiment size.
-
-model: bdh
-size: small
-# Fill in layer sizes and other model options later.
